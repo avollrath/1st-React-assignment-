@@ -1,5 +1,4 @@
 import React from 'react';
-
 import HeaderImage from '../assets/img/header-img.png';
 
 
