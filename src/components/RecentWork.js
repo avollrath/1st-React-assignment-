@@ -11,7 +11,7 @@ const RecentWork = () => {
 
 
         <div class="blog-box">
-            <img src={placeholderImage} />
+            <img src={placeholderImage} alt={placeholderImage}/>
             <h3>Blog Title</h3>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi et vitae nobis, eligendi dolores
                 blanditiis.</p>
@@ -19,7 +19,7 @@ const RecentWork = () => {
 
 
         <div class="blog-box">
-        <img src={placeholderImage} />
+        <img src={placeholderImage} alt={placeholderImage}/>
             <h3>Blog Title</h3>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi et vitae nobis, eligendi dolores
                 blanditiis.</p>
@@ -27,7 +27,7 @@ const RecentWork = () => {
 
 
         <div class="blog-box">
-            <img src={placeholderImage} />
+            <img src={placeholderImage} alt={placeholderImage}/>
             <h3>Blog Title</h3>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi et vitae nobis, eligendi dolores
                 blanditiis.</p>
